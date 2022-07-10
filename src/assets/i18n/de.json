@@ -1,0 +1,30 @@
+{
+    "login": {
+      "username": "Benutzername",
+      "password": "Passwort",
+      "rememberMe": "Remember Me",
+      "login": "Login",
+      "loginTitle": "Login",
+      "loginButtonText": "Login",
+      "userNameRequired": "Benutzername erforderlich!",
+      "passwordRequired": "Passwort erforderlich!",
+      "loginError": "Anmeldung nicht möglich. Bitte überprüfen Sie Ihre Kontoinformationen und versuchen Sie es erneut.",
+      "invalidPassword": "Ungültiges Passwort, bitte versuchen Sie es erneut.",
+      "loginUserText": "Geben Sie einen beliebigen Text mit mindestens 3 Zeichen in die Felder Benutzername und Passwort ein, um sich anzumelden und die Anwendung auszuchecken."
+    },
+    "signup": {
+      "signupTitle": "Registrieren",
+      "signup": "Registrieren",
+      "signupError": "Passwort0",
+      "signupSuccess": "Passwort1",
+      "signupButtonText": "Registrieren",
+      "signoutButton": "Passwort2"
+    },
+    "name": "Passwort3",
+    "firstName": "Passwort4",
+    "lastName": "Passwort5",
+    "email": "Passwort6",
+    "noAccountMessage": "Passwort7",
+    "logoutTitle": "Passwort8",
+    "existingUserError": "Passwort9"
+  }

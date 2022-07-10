@@ -1,0 +1,50 @@
+{    
+    "login": {
+        "username":"Username",
+        "password":"Password",
+        "rememberMe":"Remember Me",
+        "login":"Login",
+        "loginTitle":"Login",
+        "loginButtonText":"Login",
+        "userNameRequired": "Username is required!",
+        "passwordRequired": "Password is required!",
+        "loginError":"Unable to sign in. Please check your account information and try again.",
+        "invalidPassword":"Invalid password, please try again.",
+        "loginUserText":"Type AppBrahma server username and password to login and check out the application. The credentials usually are username : brahma, password : brahma@appbrahma."
+    },
+    "signup": {
+        "signupTitle":"Sign up",
+        "signup":"Sign up",
+        "signupError":"Unable to create account. Please check your account information and try again.",
+        "signupSuccess":"Registration saved! Please check your email for confirmation.",
+        "signupButtonText":"Sign up",
+        "signoutButton":"Sign Out"
+    },
+    "account":{
+        "title":"Account",
+        "updatePic":"Update Picture",
+        "changeUserName": "Change Username",
+        "changePassword":"Change Password",
+        "changeLanguage":"Change Language",
+        "support":"Support",
+        "logout":"Logout"
+    },    
+    "tutorial": {
+        "skip":"Skip",
+        "welcomeTo":"Welcome to ",
+        "unoMoWelcomeText":"The unimobile ionic conference app is a practical preview of the Unimobile app that is AppBrahma server integrated, ionic framework in action, and a demonstration of proper code use.",
+        "whatsUniMo": "What is Unimobile App?",
+        "uniMoDescription":"Unimobile app is a universal mobile app for iOS and android based on ionic, flutter, native frameworks enabling developers to build high quality mobile apps within shortest possible.",
+        "whatsIonic": "What is Ionic?",
+        "ionicDescription": "Ionic Framework is an open source SDK that enables developers to build high quality mobile apps with web technologies like HTML, CSS, and JavaScript.",
+        "readyToPlay":"Ready to Play?",
+        "continue":"Continue"
+    },
+    "name":"Name",
+    "firstName":"First Name",
+    "lastName":"Last Name",
+    "email":"Email",
+    "noAccountMessage":"Don't have an account yet?",
+    "logoutTitle":"Logout",
+    "existingUserError":"Email is already in use! Please choose another one."
+}

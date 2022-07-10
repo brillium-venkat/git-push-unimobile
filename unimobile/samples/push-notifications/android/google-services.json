@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "201955879920",
+    "project_id": "unimo-push-notification-demo",
+    "storage_bucket": "unimo-push-notification-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201955879920:android:e058a445da4d36b4c78b35",
+        "android_client_info": {
+          "package_name": "com.brillium.unimobile.pn.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201955879920-4d22ueloaee2r943ju3iccv1p5rju83v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByEHEBO1jyHF7C6Y4zV6090JRELen4KZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201955879920-4d22ueloaee2r943ju3iccv1p5rju83v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201955879920-pa1b4d3ojb1scnksro0scjs7n7f26vf3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brillium.unimobile.pn.demo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>201955879920-pa1b4d3ojb1scnksro0scjs7n7f26vf3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.201955879920-pa1b4d3ojb1scnksro0scjs7n7f26vf3</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>201955879920-b0967kfj7mjba1eqs7gbdur1lno516sj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCPEFx6ZuHoL1SssMFexJK8prDbTpOwkq8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>201955879920</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.brillium.unimobile.pn.demo</string>
+	<key>PROJECT_ID</key>
+	<string>unimo-push-notification-demo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>unimo-push-notification-demo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:201955879920:ios:54fb02e45232a957c78b35</string>
+</dict>
+</plist>

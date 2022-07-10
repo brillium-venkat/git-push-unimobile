@@ -1,0 +1,67 @@
+<ion-header no-border>
+  <ion-toolbar>
+    <ion-buttons slot="end">
+      <ion-button color="primary" (click)="startApp()" [hidden]="!showSkip"
+        >{{ 'tutorial.skip' | translate }}</ion-button
+      >
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content fullscreen="true">
+  <swiper
+    [slidesPerView]="1"
+    (swiper)="setSwiperInstance($event)"
+    (slideChangeTransitionStart)="onSlideChangeStart()"
+  >
+    <ng-template swiperSlide>
+      <div class="slide-container">
+        <img
+          src="assets/img/ica-slidebox-img-1.png"
+          class="slide-image"
+          alt="Ionic"
+        />
+        <h2 class="slide-title">
+          {{ 'tutorial.welcomeTo' | translate }}
+          <b>Unimobile ICA</b>
+        </h2>
+        <p>{{ 'tutorial.unoMoWelcomeText' | translate }}</p>
+      </div>
+    </ng-template>
+
+    <ng-template swiperSlide>
+      <div class="slide-container">
+        <img
+          src="assets/img/ica-slidebox-img-2.png"
+          class="slide-image"
+          alt="Ionic"
+        />
+        <h2 class="slide-title">{{ 'tutorial.whatsUniMo' | translate }}</h2>
+        <p>{{ 'tutorial.uniMoDescription' | translate }}</p>
+      </div>
+    </ng-template>
+
+    <ng-template swiperSlide>
+      <div class="slide-container">
+        <img src="assets/img/appicon.svg" class="slide-image" alt="Ionic" />
+        <h2 class="slide-title">{{ 'tutorial.whatsIonic' | translate }}</h2>
+        <p>{{ 'tutorial.ionicDescription' | translate }}</p>
+      </div>
+    </ng-template>
+
+    <ng-template swiperSlide>
+      <div class="slide-container">
+        <img
+          src="assets/img/ica-slidebox-img-4.png"
+          class="slide-image"
+          alt="Ionic"
+        />
+        <h2 class="slide-title">{{ 'tutorial.readyToPlay' | translate }}</h2>
+        <ion-button fill="clear" (click)="startApp()">
+          {{ 'tutorial.continue' | translate }}
+          <ion-icon slot="end" name="arrow-forward"></ion-icon>
+        </ion-button>
+      </div>
+    </ng-template>
+  </swiper>
+</ion-content>

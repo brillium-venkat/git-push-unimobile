@@ -1,0 +1,14 @@
+{
+"aps": {
+    "alert": {
+        "title": "Unimobile Push Notification Test",
+        "subtitle": "Test Notification",
+        "body": "This is a push notification test message for unimobile app (com.brillium.unimobile.pn.demo) to demonstrate the ionic capacitor unified push notification functionality (for android and iOS platforms) using Firebase Cloud Messaging (FCM). This notification will set the iOS badge count to 8 and sets two custom fields (id and type). This auto-generated app would help cut down the development time. Go get your business features implemented on this MVP platform now. \nSincerely,\nTeam AppBrahma",
+    },
+    "sound": "default",
+    "badge": 8
+ },
+"Simulator Target Bundle": "com.brillium.unimobile.pn.demo",
+ "id":"008",
+ "type":"Notification-type-1"
+}

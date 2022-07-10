@@ -1,0 +1,7 @@
+{
+    "name": "Git Push Unimobile",
+    "type": "angular",
+    "integrations": {
+        "capacitor": {}
+    }
+}
